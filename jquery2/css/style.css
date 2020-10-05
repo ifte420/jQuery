@@ -1,0 +1,27 @@
+#hide,
+#show,
+#toggle{
+    display: block;
+    padding: 8px 10px;
+    margin: 0 auto;
+}
+.pain {
+   padding: 8px 10px; 
+}
+.box1 {
+    width: 100px;
+    height: 100px;
+    background: #f88888;
+    margin-bottom: 20px;
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    background: #68ff3b;
+    margin-bottom: 20px;
+}
+.box3 {
+    width: 100px;
+    height: 100px;
+    background: #d2ed5e;
+}
