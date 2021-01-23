@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+/*================ Common Css End =================*/
+
+
+
+
+/*================ Banner Css Start =================*/
+/*
+.banner_item1 {
+    background: url(../img/nature1.jpg)no-repeat center;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    padding-top: 200px;
+    color: #fff;
+}
+
+.banner_item2 {
+   background: url(../img/nature2.jpg)no-repeat center;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    padding-top: 200px;
+    color: #fff;
+}
+
+.banner_item3 {
+    background: url(../img/nature3.jpg)no-repeat center;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    padding-top: 200px;
+    color: #fff;
+}
+
+.banner_item4 {
+    background: url(../img/nature4.jpg)no-repeat center;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    padding-top: 200px;
+    color: #fff;
+}
+
+.banner_main {
+    position: relative;
+}
+
+.banner_main .banner_text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 50%);
+}
+*/
+
+.ifte_text10{
+    background: blue;
+    height: 200px;
+    margin: 30px; 
+}
+
+/*================ Banner Css End =================*/
+
+
+ 
+
+
+
+
+/*================ Css Start =================*/
+/*================ Css End =================*/
