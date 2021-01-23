@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ul,
+ol{
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.clr {
+    clear: both;
+}
+/*Common css end*/
+
+.count_down {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.count_down2 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.count_down3 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.count_down4 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.mix_menu {
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+.mix_menu ul li {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #000;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.mix_menu ul li:hover {
+    background: green;
+    color: #fff;
+    border-color: green;
+}
+
+.mix_item .item {
+    float: left;
+    width: 25%;
+}
+
+.mix_item .item img {
+    width: 100%;
+}
+
+.mix_item {
+    margin-top: 60px;
+}
+
+.progbr {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.progressbar{
+    height: 30px !important;
+    border-radius: 20px !important;
+}
+
+.proggress {
+    height: 30px !important;
+    border-top-right-radius: 10px !important;
+}
+
+
+
+#particles-js {
+    background: url(../img/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;;
+}
+
+#Water_ripple {
+    background: url(../img/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;;
+}
+
+.pre_loader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #EFEFEF;
+    z-index: 9999;
+
+}
+
+.pre_loader img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btp {
+    width: 40px;
+    height: 40px;
+    background: #d56ef4;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    line-height: 40px;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: none;
+    cursor: pointer;
+}
